@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "9526240ff8b24a73",
+    "type": "split",
+    "children": [
+      {
+        "id": "08addb52b32f0988",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cbdaa61af924433",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/Tech-Homepage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tech-Homepage"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad5bb18f20c8baa0",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc0222bf27c7f0b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28824bee8578e8cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "718f97330bae7ac1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "60bd8ac04ad7a2ad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4747d6ffcfe538fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "93953dbb76a347b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "213125cd90bc18da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tech/Tech-Homepage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Tech-Homepage"
+            }
+          },
+          {
+            "id": "176eb0bfa4cdab7f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "a78534dbb8f3a2f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3fb2db52b0892f7c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4cbdaa61af924433",
+  "lastOpenFiles": [
+    "Resources/Resources-Homepage.md",
+    "Experiences/Experiences-Homepage.md",
+    "Documents/Documents-Homepage.md",
+    "Design/Design-Homepage.md",
+    "Art/Art-Homepage.md",
+    "Home.md",
+    "Tech/Tech-Homepage.md",
+    "Resources",
+    "Documents",
+    "Experiences",
+    "Design",
+    "Art/Art Homepage.md",
+    "Tech/Tech.md",
+    "Art/Art.md",
+    "Tech",
+    "Art",
+    "create a link.md"
+  ]
+}
